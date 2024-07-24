@@ -1,15 +1,16 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&color=020715&height=300&section=header&text=Welcome%20to%20JeongMo's%20GitHub!&fontColor=58A6FF&fontSize=50&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PungFackMo&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=5c5f69&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=41% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PungFackMo&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=5c5f69&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" height=250px />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=PungFackMo&show_icons=true&theme=material-palenight&hide_border=true&bg_color=5c5f69&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=58% />
+  <img src="https://github-readme-stats.vercel.app/api?username=PungFackMo&show_icons=true&theme=material-palenight&hide_border=true&bg_color=5c5f69&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" height=250px />
 </a>
 </div>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PungFackMo&theme=react-dark&bg_color=5c5f69&hide_border=true&line=58A6FF&color=58A6FF" width=95%/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PungFackMo&theme=react-dark&bg_color=5c5f69&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </a>
+
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
