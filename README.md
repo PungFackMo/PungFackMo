@@ -4,7 +4,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PungFackMo&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=5c5f69&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=41% />
 </a>    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=PungFackMo&show_icons=true&theme=material-palenight&hide_border=true&bg_color=5c5f69&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=59% />
+  <img src="https://github-readme-stats.vercel.app/api?username=PungFackMo&show_icons=true&theme=material-palenight&hide_border=true&bg_color=5c5f69&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=58% />
 </a>
 </div>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
