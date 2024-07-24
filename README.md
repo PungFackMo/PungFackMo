@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20to%20JeongMo's%20GitHub!&fontSize=50&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:minawa_55@naver.com">
+    <a href="mailto:duwjdah2001@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
     <a href="https://open.kakao.com/o/sPdPGtsc">
